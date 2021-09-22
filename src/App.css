@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Source Code Pro', monospace;
+}
+@media screen and (max-width: 600px) {
+  h2 {
+    display: none;
+  }
+}
